@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @weezy887 or Ali
+- 👋 Hi, I’m @AliAbasArsalahn or Ali
 - 👀 I’m interested in programming and learning new stuff
-- 🌱 I’m currently learning alot of new stuff.. including programming in Python and PowerShell
+- 🌱 I’m currently learning alot of new stuff.. including programming in Python and JavaScript
 - 💞️ I’m looking to collaborate on open source projects to improve and work in a team
 - 📫 How to reach me: you can send me a mail. 
 
